@@ -1,0 +1,108 @@
+Addition of types:
+    ☐ Create a type for Spell. @critical
+    ☐ Types for actions and combats. @low
+
+Resource Collection (PHB):
+    Class and Subclass:
+        Barbarian:
+            ☐ Base
+            Primal Paths:
+                ☐ Berserker
+                ☐ Totem Warrior
+
+        Bard:
+            ☐ Base
+            Bard College:
+                ☐ Lore
+                ☐ Valor
+
+        Cleric:
+            ☐ Base
+            Divine Domains:
+                ☐ Knowledge
+                ☐ Life
+                ☐ Light
+                ☐ Nature
+                ☐ Tempest
+                ☐ Trickery
+                ☐ War
+
+        Druid:
+            ☐ Base
+            Circles:
+                ☐ Land
+                ☐ Moon
+
+        Fighter:
+            ☐ Base
+            Martial Archtypes:
+                ☐ Champion
+                ☐ Battle Master
+                ☐ Eldritch Knight
+
+        Monk:
+            ☐ Base
+            Monastic Traditions:
+                ☐ Open Hand
+                ☐ Four Elements
+                ☐ Shadow
+
+        Paladin:
+            ☐ Base
+            Sacred Oaths:
+                ☐ Devotion
+                ☐ Ancients
+                ☐ Vengeance
+
+        Ranger:
+            ☐ Base
+            Ranger Archetypes:
+                ☐ Hunter
+                ☐ Beast Master
+        
+        Rogue:
+            ☐ Base
+            Roguish Archtypes:
+                ☐ Thief
+                ☐ Assassin
+                ☐ Arcane Trickster
+        
+        Sorcerer:
+            ☐ Base
+            Origins:
+                ☐ Draconic Bloodline
+                ☐ Wild Magic
+
+        Warlock:
+            ☐ Base @low 
+            Patronos @low:
+                ☐ Archfey
+                ☐ The Fiend
+                ☐ The great old one
+        
+        Wizard:
+            ☐ Base
+            Schools:
+                ☐ Abjuration
+                ☐ Conjuration
+                ☐ Divination
+                ☐ Enchantment
+                ☐ Evocation
+                ☐ Illusion
+                ☐ Necromancy
+                ☐ Transmutation
+
+    Equipaments & Items:
+        Weapons:
+        Armor:
+        Tools:
+        EquipamentPack:
+    Spell List:
+        ☐ 1
+        ☐ 2
+        ☐ 3
+        ☐ 4
+        ☐ 5
+        ☐ 6
+        ☐ 7
+        ☐ 8

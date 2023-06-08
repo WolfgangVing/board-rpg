@@ -1,0 +1,4 @@
+interface IBackground {
+    name: string
+    
+}
